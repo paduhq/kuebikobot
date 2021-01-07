@@ -148,7 +148,7 @@ You're bot is now ready to use. Yay!
 To deploy your bot on heroku, please follow the above steps and then procced below:
 Procfile and and other settings have already been added as per needs.
 
-- **Heroku**: https://github.com/SahilKr24/kuebikobot
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 >Push the repo to your local github and set up a deployment in heroku.
 Add the following buildpacks under **Settings > Buildpacks**
